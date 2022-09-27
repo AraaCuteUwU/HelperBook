@@ -1,0 +1,14 @@
+name: HelperBook
+author: FiraAja
+main: FiraAja\HelperBook\Main
+api: 4.0.0
+version: 1.0.0
+
+commands:
+  helper:
+    description: "Open Helper Book"
+    permission: helperbook.cmd
+
+permissions:
+  helperbook.cmd:
+    default: true

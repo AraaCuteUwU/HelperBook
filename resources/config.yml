@@ -1,0 +1,11 @@
+title: "Helper Book"
+author: "Yourserver"
+max-pages: 1 #page start from 0
+
+# pages start from 0
+# {player} for player name
+pages:
+  0:
+    text: "Hello {player} welcome to Yourserver"
+  1:
+    text: "Please vote this server UwU"
